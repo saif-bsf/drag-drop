@@ -1,0 +1,77 @@
+{
+  "tables": [
+    {
+      "id": "table-01",
+      "name": "EMPLOYEE",
+      "columns": [
+        {
+          "coulmn_id": "T1_01",
+          "name": "Name",
+          "column_data_type": "String"
+        },
+        {
+          "coulmn_id": "T1_02",
+          "name": "Age",
+          "column_data_type": "Number"
+        },
+        {
+          "coulmn_id": "T1_03",
+          "name": "Address",
+          "column_data_type": "String"
+        },
+        {
+          "coulmn_id": "T1_04",
+          "name": "Home Address",
+          "column_data_type": "String"
+        },
+        {
+          "coulmn_id": "T1_05",
+          "name": "IP Address",
+          "column_data_type": "String"
+        }
+      ]
+    },
+    {
+      "id": "table-02",
+      "name": "PATIENT",
+      "columns": [
+        {
+          "coulmn_id": "T2_01",
+          "name": "Name",
+          "column_data_type": "String"
+        },
+        {
+          "coulmn_id": "T2_02",
+          "name": "Age",
+          "column_data_type": "Number"
+        },
+        {
+          "coulmn_id": "T2_03",
+          "name": "Address",
+          "column_data_type": "String"
+        }
+      ]
+    },
+    {
+      "id": "table-03",
+      "name": "STUDENT",
+      "columns": [
+        {
+          "coulmn_id": "T3_01",
+          "name": "Name",
+          "column_data_type": "String"
+        },
+        {
+          "coulmn_id": "T3_02",
+          "name": "Age",
+          "column_data_type": "Number"
+        },
+        {
+          "coulmn_id": "T3_03",
+          "name": "Address",
+          "column_data_type": "String"
+        }
+      ]
+    }
+  ]
+}
